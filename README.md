@@ -13,6 +13,10 @@ Extra things I ended up learning:
 * How to parent Actors and Components
 * Difference between meshes and mesh components
 
+![Top down](https://github.com/coderchrismills/UnrealMarchingSquares/blob/main/Screenshots/marchingCubes01.PNG)
+
+![Perspective](https://github.com/coderchrismills/UnrealMarchingSquares/blob/main/Screenshots/marchingCubes02.PNG)
+
 Fun to learn and quickly implment, thanks goes to Jacob Zelko for the great article that insipred me to do this. 
 
 Credit:
