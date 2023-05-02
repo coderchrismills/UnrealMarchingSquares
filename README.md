@@ -17,7 +17,7 @@ Extra things I ended up learning:
 
 ![Perspective](https://github.com/coderchrismills/UnrealMarchingSquares/blob/main/Screenshots/marchingCubes02.PNG)
 
-Fun to learn and quickly implment, thanks goes to Jacob Zelko for the great article that insipred me to do this. 
+Fun to learn and quickly implement, thanks goes to Jacob Zelko for the great article that inspired me to do this. 
 
 Credit:
 Jacob Zelko. Implementing Marching Squares. December 1st, 2020. http://jacobzelko.com
